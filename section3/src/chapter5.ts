@@ -18,7 +18,7 @@ function func(message = "hello") {
   return "hello";
 }
 
-// any타입의 진화 : 계속 바뀜
+// any타입의 진화 : 계속 바뀐다
 let d;
 d = 10; // any → number
 d.toFixed();
