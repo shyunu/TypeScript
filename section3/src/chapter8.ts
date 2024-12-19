@@ -24,6 +24,7 @@ type User = Admin | Member | Guest;
 // Admin → {name}님 현재까지 {kickCount}명 강퇴했습니다.
 // Member → {name}님 현재까지 {point}점 모았습니다.
 // Guest → {name}님 현재까지 {visitCount}번 방문했습니다.
+
 function login(user: User) {
   // ⓵ switch문
   switch (user.tag) {
