@@ -30,6 +30,8 @@ function func4(): never {
 }
 
 let ab: never;
+
+
 // never타입은 그 어떤 것도 담을 수 없다/
 // ab = 1;
 // ab = "hello";
