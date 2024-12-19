@@ -17,17 +17,17 @@ let user1: User = {
   name: "수현",
   nickname: "shyunu",
   birth: "1998.09.30",
-  bio: "안녕하세요?",
-  location: "서울시",
+  bio: "김수현입니다!",
+  location: "동대문구",
 };
 
 let user2: User = {
   id: 2,
-  name: "수현2",
-  nickname: "shyunu2",
-  birth: "1998.09.30",
-  bio: "안녕하세요?22",
-  location: "서울시22",
+  name: "해린",
+  nickname: "haerin",
+  birth: "2006.05.15",
+  bio: "강해린입니다!",
+  location: "동작구",
 };
 
 // 인덱스 시그니처 - 타입을 위반하지만 않으면 값이 없어도 괜찮다

@@ -1,5 +1,5 @@
 // any
-// 특저 변수의 타입을 확실하게 모를 때 사용합니다.
+// 특정 변수의 타입을 확실하게 모를 때 사용합니다.
 // typescript가 가진 장점을 포기하는 타입 → 최대한 사용하지 말자!
 
 let anyVar: any = 10;
@@ -25,7 +25,6 @@ unknownVar = () => {};
 // unknownVar.toUpperCase();
 
 // 타입을 확실히 밝혀주었을 때에만 사용 가능하다 → 타입 정제
-if(typeof unknownVar === 'number') {
+if (typeof unknownVar === "number") {
   num = unknownVar;
-
 }
