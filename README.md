@@ -1,4 +1,4 @@
-### 타입스크립트 개념 정리 (티스토리)
+### 👩🏻‍💻 TypeScript 개념 정리 (shyunu's tistory)
 
 ## section2
 - 타입스크립트 소개 및 등장배경 (https://shyunu.tistory.com/38)
