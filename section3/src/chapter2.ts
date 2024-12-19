@@ -1,11 +1,14 @@
 // unknown 타입 (전체집합)
 function unknownExam() {
   // 모든 타입이 업캐스팅할 수 있기 때문에 모든 값을 저장할 수 있다.
-  let a: unknown = 1;
-  let b: unknown = "hello";
-  let c: unknown = true;
-  let d: unknown = null;
-  let e: unknown = undefined;
+  let a: unknown = 1;                 // number -> unknown
+  let b: unknown = "hello";           // string -> unknown
+  let c: unknown = true;              // boolean -> unknown
+  let d: unknown = null;              // null -> unknown
+  let e: unknown = undefined;         // undefined -> unknown
+  let f: unknown = [];                // Array -> unknown
+  let g: unknown = {};                // Object -> unknown
+  let h: unknown = () => {};          // Function -> unknown
 
   // unknown타입의 변수는 어떤 타입에도 저장될 수 없다. (다운캐스팅 불가능)
   let unknownVar: unknown;
