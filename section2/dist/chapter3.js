@@ -5,6 +5,7 @@ let user = {
     id: 1,
     name: "shyunu",
 };
+user.id;
 /*
 let dog: {
   name: string;
