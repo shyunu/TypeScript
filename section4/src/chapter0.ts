@@ -22,7 +22,8 @@ function introduce(name: "수현", age: number, tall?: number) {
 introduce("수현", 27, 173);
 introduce("수현", 27);
 
-function getSum(...rest: number[]) { //배열의 길이를 3으로 정하고 싶다면 [number, number, number]
+function getSum(...rest: number[]) {
+  //배열의 길이를 3으로 정하고 싶다면 [number, number, number]
   let sum = 0;
   rest.forEach((it) => (sum += it));
   return sum;
