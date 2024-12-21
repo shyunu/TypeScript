@@ -11,7 +11,8 @@ interface Person {
 }
 
 interface Developer extends Person {
-  name: "hello"; // 확장을 할 떄 타입이 서브타입이어도 선언 가능하다.
+  // 확장을 할 떄 타입이 서브타입이어도 선언 가능하다.
+  name: "hello";
 }
 
 const person: Person = {
