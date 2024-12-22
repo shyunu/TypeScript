@@ -18,3 +18,7 @@
 - 타입 단언과 타입 좁히기 활용법, 서로소 유니온 타입의 이해 (https://shyunu.tistory.com/48)
 - 함수 타입: 정의와 표현식, 호출 시그니처, 타입 호환성 (https://shyunu.tistory.com/49)
 - 함수 오버로딩과 커스텀 타입가드로 복잡한 타입 관리하기 (https://shyunu.tistory.com/50)
+
+## section5
+- 인터페이스의 활용: 기본 개념부터 확장과 선언 합치기 (https://shyunu.tistory.com/51)
+- 클래스 이해하기: JavaScript 차이점, 인터페이스, 그리고 접근 제어자 (https://shyunu.tistory.com/52)
