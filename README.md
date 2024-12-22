@@ -22,3 +22,7 @@
 ## section5
 - 인터페이스의 활용: 기본 개념부터 확장과 선언 합치기 (https://shyunu.tistory.com/51)
 - 클래스 이해하기: JavaScript 차이점, 인터페이스, 그리고 접근 제어자 (https://shyunu.tistory.com/52)
+
+## section6
+- 제네릭 이해하기: 타입 변수와 메서드 타입 정의(map, forEach) (https://shyunu.tistory.com/53)
+- 제네릭으로 확장하기: 인터페이스, 클래스, 프로미스 (https://shyunu.tistory.com/54)
