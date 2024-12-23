@@ -26,3 +26,7 @@
 ## section6
 - 제네릭 이해하기: 타입 변수와 메서드 타입 정의(map, forEach) (https://shyunu.tistory.com/53)
 - 제네릭으로 확장하기: 인터페이스, 클래스, 프로미스 (https://shyunu.tistory.com/54)
+
+## section8
+- 타입 조작하기(1): 인덱스드 액세스 타입, keyof & typeof 연산자 (https://shyunu.tistory.com/55)
+- 타입 조작하기(2): 맵드 타입, 템플릿 리터럴 타입 (https://shyunu.tistory.com/56)
