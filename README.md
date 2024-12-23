@@ -1,4 +1,5 @@
-### 👩🏻‍💻 TypeScript 개념 정리 (shyunu's tistory)
+# 👩🏻‍💻 TypeScript 개념 정리 
+### (✨ shyunu's tistory: https://shyunu.tistory.com/)
 
 ## section1
 - 타입스크립트 소개 및 등장배경 (https://shyunu.tistory.com/38)
@@ -34,3 +35,6 @@
 ## section8
 - 타입 조작하기(1): 인덱스드 액세스 타입, keyof & typeof 연산자 (https://shyunu.tistory.com/55)
 - 타입 조작하기(2): 맵드 타입, 템플릿 리터럴 타입 (https://shyunu.tistory.com/56)
+
+## section9
+- 조건부 타입 이해하기: 제네릭, 분산적 조건부, infer (https://shyunu.tistory.com/57)
