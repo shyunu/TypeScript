@@ -6,4 +6,4 @@ type Animal = "dog" | "cat" | "chicken";
 // type ColoredAnimal = "red-dog" | "red-cat" | "red-chicken" | "black-dog" | "...";
 type ColoredAnimal = `${Color}-${Animal}`;
 
-const coloredAnimal: ColoredAnimal = ""
+// const coloredAnimal: ColoredAnimal = ""
