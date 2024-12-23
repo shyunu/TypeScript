@@ -33,8 +33,8 @@ const post: PostList[0] = {
 printAuthorInfo(post.author);
 
 type Tup = [number, string, boolean];
-type Tup0 = Tup[0];
-type Tup1 = Tup[1];
-type Tup2 = Tup[2];
+type Tup0 = Tup[0]; // number
+type Tup1 = Tup[1]; // string
+type Tup2 = Tup[2]; // boolean
 // type Tup3 = Tup[3]; // 존재하지 않는 인덱스의 타입을 추출하려고 하면 오류가 발생한다.
 type TupNum = Tup[number]; // 세 타입의 유니온 타입으로 추출한다.
