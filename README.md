@@ -33,8 +33,11 @@
 - 제네릭으로 확장하기: 인터페이스, 클래스, 프로미스 (https://shyunu.tistory.com/54)
 
 ## section8
-- 타입 조작하기(1): 인덱스드 액세스 타입, keyof & typeof 연산자 (https://shyunu.tistory.com/55)
-- 타입 조작하기(2): 맵드 타입, 템플릿 리터럴 타입 (https://shyunu.tistory.com/56)
+- 타입 조작하기(1) - 인덱스드 액세스 타입, keyof & typeof 연산자 (https://shyunu.tistory.com/55)
+- 타입 조작하기(2) - 맵드 타입, 템플릿 리터럴 타입 (https://shyunu.tistory.com/56)
 
 ## section9
 - 조건부 타입 이해하기: 제네릭, 분산적 조건부, infer (https://shyunu.tistory.com/57)
+
+## section10
+- 유틸리티타입 - 맵드 타입 & 조건부 타입 (https://shyunu.tistory.com/58)
